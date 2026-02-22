@@ -1,4 +1,4 @@
-//public class UC4_PrintBanner3 {
+//japublic class UC4_PrintBanner3 {
 
 }
 /*
